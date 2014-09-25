@@ -2,14 +2,18 @@ div{
     border-style : solid;
     border-width: 5px; 
     padding: 30px; 
-    backround-color: lightblue;
-        
-}
+    background-color: 
+  }
 .container{
     border-color: aqua; 
 }
 .row{
     border-color: black;
-    border-lenth: 50px;
-    
+    border-lenth: 300px;
+}
+.back1{ 
+    background-image:url("https://0.s3.envato.com/files/76368608/03_AudioEqualizer.jpg");
+}
+.accord{
+    color: black
 }
